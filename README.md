@@ -1,5 +1,8 @@
 # test_mergem1
-
 m3
 
-m4
+s1
+
+s3
+
+s4
